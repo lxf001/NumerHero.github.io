@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 highlighter: rouge
 line_numbers: true 
 markdown: kramdown
